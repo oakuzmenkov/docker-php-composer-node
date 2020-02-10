@@ -6,6 +6,7 @@ RUN apt-get update \
     git \
     php-cli \
     php-mbstring \
+    php-xml \
     git \
     unzip \
     composer \
